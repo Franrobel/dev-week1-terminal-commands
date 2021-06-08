@@ -22,7 +22,7 @@
 - whoami -> to know which user you are using
 - ln -> to creat symbolic link
 - sort -> to sort the file
-- 
+ 
 
 ## Change permissions
 
@@ -32,6 +32,7 @@
 - sudo -> to become root
 - chgrp -> change the group from the file
 - chown -> change the owner of the file
+
 ## The permissions table value
 rwx - Binary (octal) -> Represented by a decimal value <br>
 000 &nbsp;= 0 =&nbsp; --- <br>
