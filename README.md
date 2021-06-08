@@ -4,6 +4,7 @@
 
 - cd .. -> get back one folder
 - cd <path of the folder> -> to enter in a specific folder
+- cd ~ ->go to home
 - ls -lah -> list directory with all files and hidden folders
 - mkdir -> create directory
 - touch -> create a file
@@ -12,6 +13,7 @@
 - man -> To get manual
 - mv <source path> <target path> -> move files
 - cp <source path> <target path> -> to copy a file from the source path to target path
+- cp -r <source path> <target path> -> to coppy directories 
 - pwd -> show complete path
 - cat <path of file> -> output content from a file
 - open <path of file> -> open a file using the default application
@@ -20,6 +22,7 @@
 - whoami -> to know which user you are using
 - ln -> to creat symbolic link
 - sort -> to sort the file
+- 
 
 ## Change permissions
 
